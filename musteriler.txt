@@ -1,0 +1,9 @@
+10	kasim	455
+20	ibrahim	300
+30	mustafa	-55
+40	ayhan	-440
+50	murat	630
+60	sakiha	500
+70	burak	5500
+80	hasan	0
+
